@@ -1,6 +1,6 @@
 # IndexedDB Library with Detailed Comments
 
-This repository contains a modified version of [Jake Archibald's](https://github.com/jakearchibald) ["IDB-Keyval"](https://github.com/jakearchibald/idb-keyval/tree/main). The modifications include detailed comments explaining why things work as they do, changes to variable names to make the code more understandable and some additional features. The code is written in JavaScript (JS), to make it accessible to a broader audience. This repository is intended for educational purposes only.
+This repository contains a modified version of [Jake Archibald's](https://github.com/jakearchibald) ["IDB-Keyval"](https://github.com/jakearchibald/idb-keyval/tree/main). The modifications include detailed comments explaining why things work as they do, changes to variable names to make the code more understandable, '.then()'  change with 'async /await' and some additional features. The code is written in JavaScript (JS), to make it accessible to a broader audience. This repository is intended for educational purposes only.
 
 ## License
 
@@ -19,6 +19,7 @@ The original work is licensed under [the Apache License, Version 2.0](https://ww
 - The code is written in JavaScript instead of TypeScript.
 - Detailed comments have been added to explain the workings of the library.
 - Some variable names have been changed to make them more familiar and understandable.
+- The use of '.then()' has been replaced with 'async/await'.
 - Additional features.
 
 ## Usage
